@@ -1,3 +1,2 @@
 # hello-world
-Test Repository
 Making some changes...
